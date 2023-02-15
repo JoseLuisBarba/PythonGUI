@@ -1,0 +1,5 @@
+Date,Time,Technician,Lab,Plot,Seed sample,Humidity,Light,Temperature,Equipment Fault,Plants,Blossoms,Fruit,Min Height,Max Height,Median Height,Notes
+,20:00,Yo,A,1,Hi,0.62,0.6,4.21,True,9,7,17,0.11,0.11,0.08,"Hola
+"
+,16:00,Hola,C,7,hi,0.56,0.14,4.09,True,20,23,24,0.21,0.17,0.19,"gmrog
+"
